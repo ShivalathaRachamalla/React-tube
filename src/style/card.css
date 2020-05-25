@@ -1,0 +1,44 @@
+.card .thumbnail  {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 8px;
+    margin-top: 12px;
+}
+
+.carddes {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-column-gap: 2px;
+}
+
+.card .channelname {
+    font-size: medium;
+    margin-block-end: 0em;
+   margin-block-start: 0em;
+   text-align: left;
+}
+
+.card .title {
+     font-size: medium;
+     margin-top: 0em;
+     margin-bottom: 0em;
+     padding: 0pc;
+     margin-block-end: 0em;
+     margin-block-start: 0em;
+     text-align: left;
+}
+
+.mediaimg {
+    width: 250px;
+    height: 150px;
+}
+
+.card .views {
+   font-size: small;
+   padding: 0%;
+   margin-block-end: 0em;
+   margin-block-start: 0em;
+   text-align: left;
+   font-weight: 200;
+}
