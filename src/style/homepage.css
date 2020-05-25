@@ -1,0 +1,7 @@
+.home {
+ display: grid;
+}
+.home .logo {
+    width: 10% !important;
+    float: left !important;
+}
